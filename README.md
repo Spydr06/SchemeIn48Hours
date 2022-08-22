@@ -2,9 +2,9 @@
 
 This is my implementation of a scheme-like programming language following the 
 [Write Yourself a Scheme in 48 Hours](https://en.m.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
-e-book.
+book.
 
-This program was written for my own eduaction of learning the Haskell programming language and the functional programming paradigm.
+This program was written for my own eduaction and the goal of learning the Haskell programming language and the functional programming paradigm.
 
 > Please note, that this is just a toy language for my education. It has several severe bugs and a lot of missing features.
 
@@ -31,7 +31,7 @@ $ ./scheme
 Lisp>>> _ # type scheme code here
 ```
 
-To run a sigle lisp file, use:
+To run a sigle scheme file, use:
 ```console
 $ ./scheme <your file>
 ```
